@@ -1,0 +1,58 @@
+body{
+  background-color: #181818;
+  margin: 0;
+  position: absolute;
+}
+button{
+  padding: 10px 20px 10px 20px;
+  height: 80px;
+  width: 150px;
+  background-color: #8758FF;
+  color: white;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: 0.35ms;
+  }
+  button:hover{
+    padding: 10px 20px 10px 20px;
+    height: 60px;
+    width: 200px;
+    background-color: white;
+    color: #8758FF;
+    cursor: pointer;
+  }
+
+.head{
+font-family: serif;
+color: #8758FF;
+cursor: pointer;
+margin-top: 125px;
+}
+img{
+  height: 100px;
+  width: 100%;
+  display: inline-block;
+  background-color: #400D51;
+  color: #400D51;
+  cursor: pointer;
+  position: fixed;
+  margin: 0;
+}
+.about{
+  display: inline-block;
+  cursor: pointer;
+}
+.members{
+  text-align: center;
+  color: #400D51;
+  font-family: sans-serif;
+  cursor: pointer;
+
+}
+hr{
+  width: 25%;
+  background-color: #87A2FB;
+  height: 2px;
+  cursor: pointer;
+
+}
